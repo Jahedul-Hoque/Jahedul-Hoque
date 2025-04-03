@@ -5,7 +5,7 @@
 ### 🚀 C++ | Python | Low Latency Systems | Algorithmic Trading | Infrastructure Engineering
    
 </div>
-
+    
 ## 📖 About Me
 Welcome to my GitHub profile! I am an **Azure and Linux Certified IT professional** with **4 years of experience** in technology, with a strong interest in **C++ and Python development** with a focus on **financial services, quantitative trading, and low-latency systems**. My goal with this GitHub is to learn more about development.. and in particular development within a **hedge fund and the trading industry**, leveraging my skills in **high-performance computing, market data processing, and algorithmic trading**.
 
