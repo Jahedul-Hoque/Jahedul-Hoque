@@ -3,7 +3,7 @@
 # 👨‍💻 Jahedul Hoque | Financial Services & Quantitative Developer
 
 ### 🚀 C++ | Python | Low Latency Systems | Algorithmic Trading | Infrastructure Engineering
-
+   
 </div>
 
 ## 📖 About Me
