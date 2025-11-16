@@ -50,13 +50,3 @@ Welcome to my GitHub profile! I am an **Azure and Linux Certified IT professiona
 📧 **Email**: [jahedul.hoque12@gmail.com](mailto:jahedul.hoque12@gmail.com)  
 🔗 **LinkedIn**: [Jahedul Hoque](https://www.linkedin.com/in/jahedul-hoque/)  
 🚀 **GitHub**: [jahedul-hoque](https://www.github.com/jahedul-hoque)  
-
----
-
-## 🎯 Future Learning & Goals
-🔹 **Advanced C++ for High-Frequency Trading** (Performance optimization, multi-threading)  
-🔹 **Machine Learning for Market Prediction** (Data Science, Financial Modeling)  
-🔹 **More Quantitative Finance Projects** (Options pricing, Market Making, Latency Arbitrage)  
-
-🚀 *Building scalable, efficient, and high-performance trading systems!*
-
