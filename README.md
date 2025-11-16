@@ -39,10 +39,6 @@ Welcome to my GitHub profile! I am an **Azure and Linux Certified IT professiona
 - **⏳ L1 L2 L3 Cache vs RAM Latency** – Benchmarked **CPU memory hierarchy** using **C++ `<chrono>`**.
 - **⚡ Multi-threading & Atomic Operations** – Explored **parallel computing** for high-speed order execution.
 
-### **Data Science & Machine Learning for Trading**
-- **📊 Portfolio Risk Analysis** – Used **Pandas & NumPy** to analyze **risk-adjusted returns and drawdowns**.
-- **📉 Predictive Trading Models** – Experimented with **time-series forecasting & statistical arbitrage strategies**.
-
 ### **Infrastructure & Automation**
 - **🏗️ Virtual Lab Environment** – Built a **home lab** simulating **Active Director, Linux VMS, Kubernetes Clusters**.
 - **💾 Cloud Automation** – Using **PowerShell scripts** for automating **Azure VM provisioning**.
