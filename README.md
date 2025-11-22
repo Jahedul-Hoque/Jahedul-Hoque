@@ -39,11 +39,8 @@ Over the years I’ve worked across several financial and investment firms, incl
 - **Multi-threading & Atomic Operations** – Explored **parallel computing** for high-speed order execution.
 
 ### **Infrastructure & Automation**
-- **Lab Environment** – Built a **home lab** simulating **Linux ubuntu, Kubernetes Clusters, MiniKube, Civo cloud**.
+- **Lab Environment** – Built a **home lab** with **Linux Ubuntu OS, Kubernetes cluster, MiniKube, Civo cloud**.
 ---
-
-## Technical Focus Areas  
-Although I’ve previously worked with **Python** and **C++** (including building a crypto trading bot, worked with low latency C++ scripts, and small learning projects), my current focus is on:
 
 ### 1. Linux Fundamentals (my priority right now)  
 I’m currently working on becoming deeply comfortable with core Linux engineering topics, including:  
@@ -60,7 +57,7 @@ I’m currently working on becoming deeply comfortable with core Linux engineeri
 My goal is to reach the level where I can comfortably troubleshoot production Linux servers in a real SRE/Platform environment.
 
 ### 2. DevOps, Kubernetes & Cloud  
-I am transitioning into the DevOps/Kubernetes space and building projects that demonstrate:  
+I will start documenting my learning into the DevOps/Kubernetes space and building projects that demonstrate:  
 - Docker containerization  
 - Kubernetes manifests (Deployments, Services, Ingress)  
 - GitHub Actions CI/CD pipelines  
@@ -69,32 +66,7 @@ I am transitioning into the DevOps/Kubernetes space and building projects that d
 - OpenStack (learning), VM provisioning and cloud orchestration  
 - Best practices for Cloud-native engineering
 
-## Projects  
-You can find my active projects here:
-
-### DevOps Projects  
-Repository: **DevOps-Projects**  
-Contains practical examples built using Docker, Kubernetes, Linux, GitHub Actions and YAML automation.
-
-### Additional Learning Repositories (Upcoming)  
-I will be creating a structured repository that teaches common DevOps tools from scratch, starting with Linux fundamentals before moving into:  
-- Git  
-- Docker  
-- Kubernetes  
-- Terraform  
-- Observability tools  
-- CI/CD
-
 This will act as a complete roadmap for anyone wanting to go from IT support → DevOps Engineer.
-
-## Why I Document Everything  
-My GitHub acts as a transparent history of my progression:  
-- Real technical deliverables  
-- Scripts used in real enterprise environments  
-- Kubernetes and Docker labs  
-- Linux learning journals  
-- Confluence-style documentation  
-- Code-driven automation workflows
 
 ##  Connect with Me
 **Email**: [jahedul.hoque12@gmail.com](mailto:jahedul.hoque12@gmail.com)  
