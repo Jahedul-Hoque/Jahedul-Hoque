@@ -56,18 +56,6 @@ I’m currently working on becoming deeply comfortable with core Linux engineeri
 
 My goal is to reach the level where I can comfortably troubleshoot production Linux servers in a real SRE/Platform environment.
 
-### 2. DevOps, Kubernetes & Cloud  
-I will start documenting my learning into the DevOps/Kubernetes space and building projects that demonstrate:  
-- Docker containerization  
-- Kubernetes manifests (Deployments, Services, Ingress)  
-- GitHub Actions CI/CD pipelines  
-- YAML-driven automation  
-- Infrastructure-as-Code (Terraform, upcoming)  
-- OpenStack (learning), VM provisioning and cloud orchestration  
-- Best practices for Cloud-native engineering
-
-This will act as a complete roadmap for anyone wanting to go from IT support → DevOps Engineer.
-
 ##  Connect with Me
 **Email**: [jahedul.hoque12@gmail.com](mailto:jahedul.hoque12@gmail.com)  
 **LinkedIn**: [Jahedul Hoque](https://www.linkedin.com/in/jahedul-hoque/)  
