@@ -2,12 +2,12 @@
    
 # Jad | Financial Services | DevOps Mindset
 
-Welcome to my GitHub profile! I am an **Azure and Linux Certified IT professional** with **4 years of experience** in technology, with a strong interest of **DevOps Principles**. My goal with this GitHub is to document my technical learning, build projects, and showcase the real-world engineering work I produce.
+Welcome to my GitHub profile! My goal with this GitHub is to document my technical learning, build projects, and showcase the real-world engineering work I produce.
 
 </div>
 
 ## About Me  
-I work as a Desktop Support / Infrastructure Engineer in London, currently contracting at Jera Global Markets. My day-to-day work involves heavy automation across on-prem Active Directory, Azure Entra ID and Exchange Online (Role-Based-Access Control) with the principle of least privelage in mind. I'm currently also working on a migration project moving users from Windows 10 to Windows 11.
+4 years of experience supporting quantitative trading teams across Windows / Linux based environments. Currently working in a leading global propietary trading firm as a Systems Administrator supporting propietary OMS systems and working in a team that deals with complex issues using tools like Claude Code to build workflows and troubleshoot incidents.
 
 ---
 
